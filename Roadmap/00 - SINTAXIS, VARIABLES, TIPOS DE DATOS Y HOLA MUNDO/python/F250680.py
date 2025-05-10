@@ -30,6 +30,9 @@ valores.
 my_primerNombre = " FRANCO " 
 my_primerApellido = " OJEDA "
 
+print(my_primerNombre)
+print(my_primerApellido)
+
 # cosntantes 
 
 '''
