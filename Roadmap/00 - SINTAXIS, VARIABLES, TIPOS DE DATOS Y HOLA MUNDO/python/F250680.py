@@ -79,5 +79,25 @@ print(my_bool)
 print(my_string)
 print(my_other_string)
 
+my_E= 45
+my_P= 70.5
+my_V= True
+my_Pr= "estudiante SENA"
+my_Es= "programa ADSO"
+
+print(type(my_E))
+print(type(my_P))
+print(type(my_V))
+print(type(my_Pr))
+print(type(my_Es))
+
+print(my_E)
+print(my_P)
+print(my_V)
+print(my_Pr)
+print(my_Es)
+
+
+
 
 
